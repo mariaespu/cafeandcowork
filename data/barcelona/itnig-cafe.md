@@ -17,16 +17,16 @@ hours:
   fri: 8-20
   sat: 9-19
   sun: 9-19
-wifi: 2
+wifi: 3
 speed: 16
-power: 2
-vacancy: 3
-comfort: 3
-quiet: 4
-food: 3
+power: 3
+vacancy: 4
+comfort: 4
+quiet: 5
+food: 5
 drinks: 4
-price: 2
-view: 4
+price: 3
+view: 5
 toilets: 5
 music: true
 smoking: false
@@ -41,5 +41,5 @@ website: https://itnig.net/coworking/
 images:
   - inside.jpg
 review:
-  en: This cafe is run by Syra coffee, which is a popular chain of cafe in Spain. The building is a coworking space / startup community called itnig, but the cafe is open to public with a plenty of seats. The WiFi is workable but not the fastest. Also, there are not so many comfortable seats to sit for the entire day, especially if you're alone. If you can't get the table seats, you only get the high stools or the weird mattress seats. There's not many power outlets as well. Also, in the after noon, the sun light gets bit too much and can get quite hot inside.
+  en: This coffee shop is managed by Syra coffee, a popular chain of coffee shops in Spain. The building is a coworking space/startup community called itnig, which you can book from one day to as long as you need. The cafeteria is open to the public with plenty of seating. WiFi works well. Also, there is plenty of comfortable seating to sit in throughout the day, especially if you are alone. There are power outlets so you can charge your computer. During the central hours of the day there is very good light. 
 ---
